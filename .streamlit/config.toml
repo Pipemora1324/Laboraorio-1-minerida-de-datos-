@@ -1,0 +1,24 @@
+# Tema propio del laboratorio. La paleta se configura en Streamlit, además
+# del CSS de detalles, para que widgets, menús, campos numéricos y paneles
+# adopten el modo oscuro de forma consistente.
+[theme]
+base = "dark"
+primaryColor = "#10B981"
+backgroundColor = "#0B0F17"
+secondaryBackgroundColor = "#111827"
+textColor = "#E5E7EB"
+font = "sans serif"
+borderColor = "#1F2937"
+showWidgetBorder = true
+baseRadius = "medium"
+buttonRadius = "medium"
+codeBackgroundColor = "#111827"
+codeTextColor = "#A7F3D0"
+dataframeBorderColor = "#1F2937"
+dataframeHeaderBackgroundColor = "#1F2937"
+chartCategoricalColors = ["#10B981", "#06B6D4", "#34D399", "#22D3EE"]
+
+[theme.sidebar]
+backgroundColor = "#111827"
+secondaryBackgroundColor = "#0B0F17"
+textColor = "#E5E7EB"

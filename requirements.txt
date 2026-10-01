@@ -1,0 +1,6 @@
+# Dependencias directas del entrenamiento y del dashboard interactivo.
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.3
+streamlit>=1.50
+plotly>=5.18
